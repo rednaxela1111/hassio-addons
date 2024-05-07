@@ -1,6 +1,7 @@
 # rednaxela1111's Home Assistant Add-Ons
 
 This is a personal repository for [Home Assistant](https://www.home-assistant.io) add-ons.
+Based on the orginal work by Davide125 https://github.com/davide125/hassio-addons/tree/main/homebridge
 
 ## Installation
 
