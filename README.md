@@ -8,7 +8,7 @@ Based on the orginal work by Davide125 https://github.com/davide125/hassio-addon
 * Go to the Supervisor panel in Home Assistant
 * Go to the "Add-on Store" tab
 * Click the "three dots" icon in the top right corner and choose "Repositories"
-* Paste `https://github.com/davide125/hassio-addons` in the "Add" text field and click "Add", then "Close"
+* Paste `https://github.com/rednaxela1111/hassio-addons` in the "Add" text field and click "Add", then "Close"
 
 ## Add-ons
 
